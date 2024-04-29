@@ -1,0 +1,14 @@
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkGeneric\HomeWorkGeneric\bin\Debug\net6.0\HomeWorkGeneric.exe
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkGeneric\HomeWorkGeneric\bin\Debug\net6.0\HomeWorkGeneric.deps.json
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkGeneric\HomeWorkGeneric\bin\Debug\net6.0\HomeWorkGeneric.runtimeconfig.json
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkGeneric\HomeWorkGeneric\bin\Debug\net6.0\HomeWorkGeneric.dll
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkGeneric\HomeWorkGeneric\bin\Debug\net6.0\HomeWorkGeneric.pdb
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkGeneric\HomeWorkGeneric\obj\Debug\net6.0\HomeWorkGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkGeneric\HomeWorkGeneric\obj\Debug\net6.0\HomeWorkGeneric.AssemblyInfoInputs.cache
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkGeneric\HomeWorkGeneric\obj\Debug\net6.0\HomeWorkGeneric.AssemblyInfo.cs
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkGeneric\HomeWorkGeneric\obj\Debug\net6.0\HomeWorkGeneric.csproj.CoreCompileInputs.cache
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkGeneric\HomeWorkGeneric\obj\Debug\net6.0\HomeWorkGeneric.dll
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkGeneric\HomeWorkGeneric\obj\Debug\net6.0\refint\HomeWorkGeneric.dll
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkGeneric\HomeWorkGeneric\obj\Debug\net6.0\HomeWorkGeneric.pdb
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkGeneric\HomeWorkGeneric\obj\Debug\net6.0\HomeWorkGeneric.genruntimeconfig.cache
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkGeneric\HomeWorkGeneric\obj\Debug\net6.0\ref\HomeWorkGeneric.dll
